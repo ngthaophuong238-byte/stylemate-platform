@@ -1,0 +1,6 @@
+{
+  "name": "STYLEMATE - Virtual Fashion Wardrobe & Styling Platform",
+  "description": "Interactive fashion game, virtual closet, dress-up fit studio, and AI personal stylist for young women.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
